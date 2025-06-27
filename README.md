@@ -2,7 +2,7 @@
 
 This repository contains writing samples that demonstrate my technical writing abilities.
 
-If you want to learn more about me, my background, and my documentation process, check out my [Wiki](https://github.com/heykayla/my-writing/wiki).
+If you want to learn more about me, my background, and my documentation process, check out my [Wiki](https://github.com/christinapham-portfolio/technical-writing/wiki).
 
 ## Documentation types
 
